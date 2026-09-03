@@ -63,5 +63,5 @@ Run the SQL query file to reproduce the analysis
 Open the .pbix file in Power BI Desktop
 Refresh the data source to point to your local database or dataset
 
-Author
+# Author
 Pragya Singh rajputpragya2026@gmail.com
